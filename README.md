@@ -1,11 +1,24 @@
+<div align="center">
+
+<img src="assets/icon.png" alt="微信分身管理" width="120" height="120">
+
 # 微信分身管理 · WeChatDual
 
-> 一个 macOS 小工具：**一键创建 / 重建微信多开分身**，每个分身独立登录、互不影响，并自带「防微信更新覆盖」保护。
+<p>一个 macOS 小工具：<b>一键创建 / 重建微信多开分身</b><br>
+每个分身独立登录、互不影响，并自带「防微信更新覆盖」保护 🛡️</p>
 
 ![Platform](https://img.shields.io/badge/platform-macOS%2011%2B-blue?logo=apple)
 ![Language](https://img.shields.io/badge/language-Swift-orange)
 ![Arch](https://img.shields.io/badge/arch-Universal%20(ARM%20%2F%20Intel)-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+<br>
+
+<a href="https://github.com/chinachenkeke-source/mac-wechat-dual/releases/latest">
+  <img src="https://img.shields.io/badge/⬇%20下载-Download%20v1.0.0-blueviolet?style=for-the-badge">
+</a>
+
+</div>
 
 ---
 
